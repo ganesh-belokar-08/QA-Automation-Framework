@@ -1,0 +1,7 @@
+Input/
+Output/
+Split/
+Backup/
+Reports/
+*.tmp
+~$*.xls*
